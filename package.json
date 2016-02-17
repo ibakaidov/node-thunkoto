@@ -1,0 +1,17 @@
+{
+  "name": "thunkoto",
+  "version": "0.0.0",
+  "description": "Prototype for confort work with thunkify",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "thunkify"
+  ],
+  "author": "ibakaidov",
+  "license": "ISC",
+  "dependencies": {
+    "thunkify": "^2.1.2"
+  }
+}
